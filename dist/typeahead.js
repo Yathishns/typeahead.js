@@ -1079,7 +1079,6 @@
             $hint.css(css.hint).css({
                 backgroundAttachment: $input.css("background-attachment"),
                 backgroundClip: $input.css("background-clip"),
-                backgroundColor: $input.css("background-color"),
                 backgroundImage: $input.css("background-image"),
                 backgroundOrigin: $input.css("background-origin"),
                 backgroundPosition: $input.css("background-position"),

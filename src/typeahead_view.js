@@ -318,7 +318,7 @@ var TypeaheadView = (function() {
     .css({
       backgroundAttachment: $input.css('background-attachment'),
       backgroundClip: $input.css('background-clip'),
-      backgroundColor: $input.css('background-color'),
+      // backgroundColor: $input.css("background-color"),             // TODO: (IW) This is improperly copying background colors from disabled fields
       backgroundImage: $input.css('background-image'),
       backgroundOrigin: $input.css('background-origin'),
       backgroundPosition: $input.css('background-position'),

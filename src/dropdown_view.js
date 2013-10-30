@@ -128,7 +128,7 @@ var DropdownView = (function() {
     // --------------
 
     destroy: function() {
-      this.$menu.off('.tt');
+      if(this.$menu) this.$menu.off('.tt');
 
       this.$menu = null;
     },

@@ -95,8 +95,8 @@ var InputView = (function() {
     // --------------
 
     destroy: function() {
-      this.$hint.off('.tt');
-      this.$input.off('.tt');
+      if(this.$hint) this.$hint.off('.tt');
+      if(this.$input) this.$input.off('.tt');
 
       this.$hint = this.$input = this.$overflowHelper = null;
     },

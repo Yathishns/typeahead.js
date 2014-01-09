@@ -5,8 +5,7 @@
     "typeahead",
     "autocomplete"
   ],
-  "homepage": "http://twitter.github.com/typeahead.js",
-  "bugs": "https://github.com/twitter/typeahead.js/issues",
+  "homepage": "https://github.com/newrelic/typeahead.js",
   "author": {
     "name": "Twitter, Inc.",
     "url": "https://twitter.com/twitteross"
@@ -23,6 +22,10 @@
     {
       "name": "Veljko Skarich",
       "url": "https://twitter.com/vskarich"
+    },
+    {
+      "name": "Ian White",
+      "url": "https://github.com/impressiver"
     }
   ],
   "devDependencies": {

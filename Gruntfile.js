@@ -24,8 +24,8 @@ module.exports = function(grunt) {
     banner: [
       '/*!',
       ' * typeahead.js <%= version %>',
-      ' * https://github.com/twitter/typeahead',
-      ' * Copyright 2013 Twitter, Inc. and other contributors; Licensed MIT',
+      ' * https://github.com/newrelic/typeahead.js',
+      ' * Copyright 2013 Twitter, Inc., New Relic, and other contributors; Licensed MIT',
       ' */\n\n'
     ].join('\n'),
 

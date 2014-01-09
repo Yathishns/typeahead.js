@@ -1,7 +1,7 @@
 /*!
  * typeahead.js 0.9.3
- * https://github.com/twitter/typeahead
- * Copyright 2013 Twitter, Inc. and other contributors; Licensed MIT
+ * https://github.com/newrelic/typeahead
+ * Copyright 2013 Twitter, Inc., New Relic, and other contributors; Licensed MIT
  */
 
 (function($) {
